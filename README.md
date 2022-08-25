@@ -1,3 +1,10 @@
+### Olá, seja bem vindo ao meu GitHub. Eu sou Gabriel Marins Rodrigues.
+
+- Desenvolvedor .NET Jr FullStack | Asp.net | C# | HTML | CSS
+- Estudando no bootcamp de .Net da Generation Brasil
+
+#
+
 <div>
   <a href="https://github.com/kamui-7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamui-7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
