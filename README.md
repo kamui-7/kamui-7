@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo ao meu GitHub. Eu sou Gabriel Marins Rodrigues.
 
-- Desenvolvedor .NET Jr FullStack | Asp.net | C# | HTML | CSS
-- Estudando no bootcamp de .Net da Generation Brasil
+- Desenvolvedor PHP/LARAVEL Jr FullStack | PHP | LARAVEL | Asp.net | C# | HTML | CSS
+- Formado no bootcamp de .Net da Generation Brasil
 
 #
 
